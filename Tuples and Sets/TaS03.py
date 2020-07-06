@@ -3,7 +3,6 @@ Use python set to check if string is panagram, i.e., a sentence that uses every 
 """
 
 import string
-print("Burla Sai Teja - Part B - 3")
 def pangram(str): 
     alphabets = "abcdefghijklmnopqrstuvwxyz"
     for i in alphabets: 
